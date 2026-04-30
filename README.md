@@ -1,6 +1,6 @@
 # AI Web Search Agent (LangChain + Gemini + Tavily) | Real-Time LLM Search Engine
 
-## 🚀 AI Web Search Agent using LangChain, Gemini, and Tavily
+## AI Web Search Agent using LangChain, Gemini, and Tavily
 
 This project is a **production-grade AI web search agent** that uses a LangChain ReAct agent to perform real-time web searches and generate synthesized, cited answers using LLMs.
 
